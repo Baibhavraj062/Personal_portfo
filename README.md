@@ -27,7 +27,7 @@ This is a **responsive personal portfolio website** built using **HTML5** and **
 
 Here's a quick preview of the web page:
 
-![Portfolio Preview](![protfoliovideo](https://github.com/user-attachments/assets/c43258aa-1a61-433b-a186-013cf4235eea)
+![Portfolio Preview](![protfoliovideo](https://github.com/user-attachments/assets/6480ea5e-94a5-4031-b320-066aa7b27044)
 )
 
 
