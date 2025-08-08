@@ -23,4 +23,11 @@ This is a **responsive personal portfolio website** built using **HTML5** and **
 - Google Fonts (optional)
 - Font Awesome / Icon Library
 
+## 🖼️ Preview
+
+Here's a quick preview of the web page:
+
+![Portfolio Preview](![protfoliovideo](https://github.com/user-attachments/assets/c43258aa-1a61-433b-a186-013cf4235eea)
+)
+
 
